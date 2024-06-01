@@ -1,9 +1,3 @@
-![Adalab]()
-
-**Dirección GitHub Pages:**
-
-
-
 # Módulo 3: Ejercicio de evaluación final
 
 
